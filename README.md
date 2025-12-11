@@ -63,7 +63,8 @@ Extracts text and generates personalized questions.
 ### **Output 2 — Interview Interface**
 Records audio/video responses and displays each question.
 
-<img width="1532" height="770" alt="image" src="https://github.com/user-attachments/assets/b1447b03-8c2e-4802-a73f-b698300d8557" />
+<img width="1886" height="824" alt="Screenshot 2025-12-11 200902" src="https://github.com/user-attachments/assets/b6062f8b-0e67-4c27-9c4c-b5b9ee2d8824" />
+
 
 
 ### **Output 3 — Results Dashboard**
